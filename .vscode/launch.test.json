@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "maven-quick-start",
+                "projectName": "maven-quick-start",
+                "workingDirectory": "c:\\Users\\micha\\Desktop\\projects\\maven-quick-start",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "maven-quick-start",
+                "projectName": "maven-quick-start",
+                "workingDirectory": "c:\\Users\\micha\\Desktop\\projects\\maven-quick-start",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
